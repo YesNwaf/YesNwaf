@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Molhim4001";
+  src: url("https://res.cloudinary.com/dnuzzgcal/raw/upload/v1711921320/Molhim4001.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
